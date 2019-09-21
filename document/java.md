@@ -216,19 +216,19 @@ public class AmediaController implements Initializable {
 # 第三章 系统实现及运行结果
 1. 首先运行jar文件（环境为jre 1.8）
 
-![p1](https://github.com/ddtyjmyjm/JavaFX_demo/raw/master/1.png)
+![p1](1.png)
 
 2. 点击左下角文件夹open按钮，调用系统选择文件窗口
 
-![p2](https://github.com/ddtyjmyjm/JavaFX_demo/raw/master/2.png)
+![p2](2.png)
 
 3. 选中文件后进入主窗口
 
-![p3](https://github.com/ddtyjmyjm/JavaFX_demo/raw/master/3.png)
+![p3](3.png)
 
 4. 可注意进度条跟随播放进度
 
-![p4](https://github.com/ddtyjmyjm/JavaFX_demo/raw/master/4.png)
+![p4](4.png)
 
 5. 关于暂停和快进快退因无法打印动图，可现场演示
 
