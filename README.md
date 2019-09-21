@@ -1,4 +1,4 @@
-# JavaFX_demo
+# JavaFX_MediaPlayer_demo
 
 ## x0.介绍
 
